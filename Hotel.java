@@ -6,6 +6,7 @@ public class Hotel
 
     private ArrayList<Guest> guests;
     private ArrayList<Room> rooms;
+    private String name;
 
     public Hotel(int capacity)
     {
